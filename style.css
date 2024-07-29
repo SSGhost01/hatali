@@ -1,0 +1,6 @@
+#myElement {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    display: none; /* Başlangıçta gizli */
+}
